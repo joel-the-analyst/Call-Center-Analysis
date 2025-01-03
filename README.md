@@ -1,5 +1,7 @@
 # Call Center Dashboard
 
+![Overview of Dashboard](https://github.com/joel-the-analyst/Call-Center-Analysis/blob/main/Call%20Center%20Final%20Dashboard.png)
+
 ## Overview
 This repository features a comprehensive **Call Center Dashboard** created using **Power BI**. The dashboard is designed to monitor and evaluate the performance of a call center, providing actionable insights into key metrics such as call volume, agent performance, customer satisfaction, and operational efficiency. 
 
